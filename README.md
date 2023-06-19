@@ -1,5 +1,5 @@
-# XA-GMA
-This is the code of XA-GMA (explainable automated General Movement Assessment) based on Pytorch
+# MAM
+This is the code of MAM (Motor Assessment Model) based on Pytorch
 ## Pretrain the main part of the model
 `python pretrain_clip.py`
 ## Train
